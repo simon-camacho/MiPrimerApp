@@ -6,6 +6,10 @@ import android.os.Bundle;
 // Desarrollo de aplicaciones móviles con Android
 // Simon Camacho Gastello
 
+// UNAM
+// Desarrollo de aplicaciones móviles con Android
+// Simon Camacho Gastello
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
